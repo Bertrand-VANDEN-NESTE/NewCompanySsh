@@ -87,20 +87,24 @@ header {
 }
 .h_orange{
     border-bottom: solid 0.3em #F76801;
+    list-style: none;
 }
 .h_jaune{
     border-bottom: solid 0.3em #FCD04B;
+    list-style: none;
 }
 .h_vert{
     border-bottom: solid 0.3em #9EC64B;
+    list-style: none;
 }
 .h_bleu{
     border-bottom: solid 0.3em #4091C0;
+    list-style: none;
 }
 
 .logo{
     width: 90px;
-    padding-top: 20%;
+    padding-top: 10%;
     padding-left: 15%;
 }
 
